@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Kaimganj",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "lat": 27.57,
+    "lon": 79.35,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1689992252,
+    "localtime": "2023-07-22 7:47"
+  },
+  "current": {
+    "last_updated_epoch": 1689992100,
+    "last_updated": "2023-07-22 07:45",
+    "temp_c": 32.9,
+    "temp_f": 91.2,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 15.4,
+    "wind_kph": 24.8,
+    "wind_degree": 110,
+    "wind_dir": "ESE",
+    "pressure_mb": 1004.0,
+    "pressure_in": 29.64,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 55,
+    "cloud": 25,
+    "feelslike_c": 38.0,
+    "feelslike_f": 100.4,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 8.0,
+    "gust_mph": 18.6,
+    "gust_kph": 29.9,
+    "air_quality": {
+      "co": 507.3999938964844,
+      "no2": 4.0,
+      "o3": 55.79999923706055,
+      "so2": 2.700000047683716,
+      "pm2_5": 26.200000762939453,
+      "pm10": 30.799999237060547,
+      "us-epa-index": 2,
+      "gb-defra-index": 3
+    }
+  }
+}
